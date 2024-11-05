@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Lab9.2.2\Lab9.2.2\Source.cpp(7,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\source\repos\Lab9.2.2\Lab9.2.2\Source.cpp(22,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Lab9.2.2\Lab9.2.2\Source.cpp(27,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Lab9.2.2\Lab9.2.2\Source.cpp(28,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Lab9.2.2.vcxproj -> C:\Users\User\source\repos\Lab9.2.2\x64\Debug\Lab9.2.2.exe
